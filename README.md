@@ -3,9 +3,9 @@ Dockerfile for develop GUI application with Python 3 + PyQt5 + QML + QtMultimedi
 
 Tested on Ubuntu 16.04
 
-https://github.com/fadawar/docker-pyqt5-qml
+https://github.com/fadawar/docker-pyqt5-qml-qtmultimedia
 
-https://hub.docker.com/r/fadawar/docker-pyqt5-qml/
+https://hub.docker.com/r/fadawar/docker-pyqt5-qml-qtmultimedia/
 
 ## How to use
 You can clone github repository and then run this command to check if it's working
