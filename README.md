@@ -19,7 +19,7 @@ docker run -it \
     -u myusername \
     --group-add audio \
     --device /dev/snd \
-    fadawar/pyqt5-qml-qtmultimedia python3 /app/hello.py
+    fadawar/docker-pyqt5-qml-qtmultimedia python3 /app/hello.py
 ```
 
 **Build**
