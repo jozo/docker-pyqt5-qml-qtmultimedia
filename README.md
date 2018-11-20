@@ -8,7 +8,7 @@ https://github.com/jozo/docker-pyqt5-qml-qtmultimedia
 https://hub.docker.com/r/fadawar/docker-pyqt5-qml-qtmultimedia/
 
 ## How to use it
-You can clone github repository and then run this command to check if it's working
+You can **clone** this github repository and then run this command to check if it's working
 
 **Run**
 ```
