@@ -1,5 +1,5 @@
 # docker-pyqt5-qml-qtmultimedia
-Dockerfile for develop GUI application with Python 3 + PyQt5 + QML + QtMultimedia
+Dockerfile for development of GUI applications with Python 3 + PyQt5 + QML + QtMultimedia
 
 Tested on Ubuntu 16.04, 16.10, 18.10
 
